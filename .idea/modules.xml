@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios-em-Java.iml" filepath="$PROJECT_DIR$/Exercicios-em-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaEncadeada/ListaEncadeada.iml" filepath="$PROJECT_DIR$/ListaEncadeada/ListaEncadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Matrizes/Matrizes.iml" />
     </modules>
   </component>
 </project>

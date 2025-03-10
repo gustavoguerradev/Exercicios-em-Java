@@ -30,7 +30,7 @@ public class Exercise11 {
             people[i] = new Person(name, gender, height);
         }
 
-        Person lower = people[0];
+       Person lower = people[0];
         Person taller = people[0];
         double sum_female_height = 0;
         int male_quantity = 0;
