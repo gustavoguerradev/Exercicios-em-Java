@@ -1,4 +1,4 @@
-package entities;
+package linkedlist.entities;
 
 public class Employee {
     private String name;

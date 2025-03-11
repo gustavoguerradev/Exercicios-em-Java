@@ -1,3 +1,4 @@
+package arrays.exercises;
 import java.util.Scanner;
 
 public class Exercise05 {

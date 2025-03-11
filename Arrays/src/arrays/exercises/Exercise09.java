@@ -1,5 +1,5 @@
-import entities.Person;
-
+package arrays.exercises;
+import arrays.entities.Person;
 import java.util.Scanner;
 
 public class Exercise09 {

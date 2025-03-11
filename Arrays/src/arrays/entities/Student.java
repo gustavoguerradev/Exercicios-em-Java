@@ -1,4 +1,4 @@
-package entities;
+package arrays.entities;
 
 public class Student extends Person {
     private double finalGrade;

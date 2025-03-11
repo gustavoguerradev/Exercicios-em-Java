@@ -1,10 +1,10 @@
-import entities.Employee;
-
+package linkedlist.exercises;
+import linkedlist.entities.Employee;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Exercise12 {
+public class Exercise01 {
     /*
     Fazer um programa para ler um número inteiro N e depois os
     dados (id, nome e salario) de N funcionários. Não deve haver
