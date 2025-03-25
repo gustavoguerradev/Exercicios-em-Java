@@ -67,5 +67,8 @@ public class Codigos {
         System.out.println(t1.toDays());
         System.out.println(t1.toHours());
         System.out.println(t1.toMinutes());
+
+        ZoneId zonaOrigem = ZoneId.of("America/Sao_Paulo");
+        System.out.println(zonaOrigem);
     }
 }
